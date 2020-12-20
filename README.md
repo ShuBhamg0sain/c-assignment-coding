@@ -51,7 +51,7 @@
 	b) Using switch-case
 	c) Using conditional/ternary
 
-
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%202/Screenshot_20201220_192113.jpg)
 
 # Question 3
 
