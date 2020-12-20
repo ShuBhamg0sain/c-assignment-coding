@@ -87,7 +87,7 @@
 	b) Using conditional/ternary operator
 	c) Using arithmetic operation (subtraction)
 
-
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_222245.jpg)
 
 
 # Question 3
