@@ -30,3 +30,6 @@
 # temporary variable
 
   ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%201/IMG_20201220_181529.jpg)
+
+
+# assignment 2
