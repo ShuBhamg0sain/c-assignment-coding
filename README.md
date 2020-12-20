@@ -17,9 +17,6 @@
 
 
 
-
-
-
 # Question 3
 * WAP to exchange two numbers using a temporary variable and without.
 
@@ -94,7 +91,7 @@
 
 * WAP to find the average of top three test results out of four conducted. (eliminate the smallest one).
 
-
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201221_000040.jpg)![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201221_000125.jpg)
 
 
 
