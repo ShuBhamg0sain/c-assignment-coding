@@ -12,7 +12,7 @@
 # Question 2
 * WAP to convert temperature from Fahrenheit to celsius.
 
-  ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Termux-metasploit/master/68747470733a2f2f692e696d6775722e636f6d2f794c46516876
+  ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%201/IMG_20201220_181428.jpg)
 
 
 
