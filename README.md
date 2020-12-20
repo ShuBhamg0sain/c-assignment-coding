@@ -98,9 +98,7 @@
 
 # Question 4
 
-
-
 * WAP to determine leap year or not using Logical AND, OR operators and conditional statements.
-
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/Screenshot_20201221_001310.jpg)
 
 
