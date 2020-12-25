@@ -22,7 +22,7 @@
 
 # without temporary variable
 
-  ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%201/IMG_20201220_181515.jpg)
+  ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-lab-assignment/main/Lab%20assignment%201/Screenshot_20201225_094840.jpg)
 
 # temporary variable
 
