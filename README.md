@@ -72,7 +72,7 @@
 	d) Percentage between 41 & 50 then Grade = D
 	e) Percentage between 35 & 40 then Grade = E
 	f) Percentage < 35 then Grade = F
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_212434.jpg)![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_212506.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_212434.jpg) ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_212506.jpg)
 
 
 
