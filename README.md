@@ -55,7 +55,7 @@
 
 * Area of a valid triangle using Heron's Formula. (Sum of any two sides must be greater than the third side).
 
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/Screenshot_20201221_004152.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-lab-assignment/main/Lab%20assignment%202/Screenshot_20201221_004152.jpg)
 
 
 
