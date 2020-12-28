@@ -49,6 +49,12 @@
 # Using if-else 
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%202/Screenshot_20201220_192113.jpg)
 
+
+# Using switch-case
+
+![ ](
+
+
 # Question 3
 
 
