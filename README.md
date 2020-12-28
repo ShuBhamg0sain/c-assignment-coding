@@ -52,7 +52,7 @@
 
 # Using switch-case
 
-![ ](
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%202/IMG_20201228_200445.jpg)
 
 
 # Question 3
