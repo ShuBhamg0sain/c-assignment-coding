@@ -36,6 +36,7 @@
 # Question 1
 
 * WAP to input an decimal number (base 10) and display its hex and octal equivalents.
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-lab-assignment/main/Lab%20assignment%202/IMG_20201228_094236.jpg)
 
 
 
