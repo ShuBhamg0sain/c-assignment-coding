@@ -55,6 +55,7 @@
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%202/IMG_20201228_200445.jpg)
 
 # c) Using conditional/ternary
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%202/Screenshot_20201228_210745.jpg)
 
 
 # Question 3
