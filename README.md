@@ -46,13 +46,15 @@
 	a) Using if-else
 	b) Using switch-case
 	c) Using conditional/ternary
-# Using if-else 
+# a) Using if-else 
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%202/Screenshot_20201220_192113.jpg)
 
 
-# Using switch-case
+# b) Using switch-case
 
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%202/IMG_20201228_200445.jpg)
+
+# c) Using conditional/ternary
 
 
 # Question 3
@@ -88,9 +90,14 @@
 	a) Using if else
 	b) Using conditional/ternary operator
 	c) Using arithmetic operation (subtraction)
+# a) Using if else
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%203/IMG_20201228_205008.jpg)
 
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_222245.jpg)
 
+# b) Using conditional/ternary operator
+
+
+# c) Using arithmetic operation (subtraction)
 
 # Question 3
 
