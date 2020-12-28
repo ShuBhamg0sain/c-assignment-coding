@@ -7,7 +7,7 @@
 
 
 
-
+![ ](https://github.com/ShuBhamg0sain/c-------------------lab------------------assignment/blob/main/Lab%20assignment%201/lab%20assignment%201.pdf)
 
 # Question 2
 * WAP to convert temperature from Fahrenheit to celsius.
