@@ -100,6 +100,7 @@
 
 
 # c) Using arithmetic operation (subtraction)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%203/Screenshot_20201229_123947.jpg)
 
 # Question 3
 
