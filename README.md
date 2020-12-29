@@ -96,6 +96,7 @@
 
 
 # b) Using conditional/ternary operator
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%203/IMG_20201229_085123.jpg)
 
 
 # c) Using arithmetic operation (subtraction)
