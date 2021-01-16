@@ -121,7 +121,7 @@
 
 # Question 1
 
-# WAP to compute net salary? (NS=BP+HRA+TA +DA), Where BP (Basic pay would be enter by user) HRA=10% of BP, TA=5%of BP DA=15%of BP
+* WAP to compute net salary? (NS=BP+HRA+TA +DA), Where BP (Basic pay would be enter by user) HRA=10% of BP, TA=5%of BP DA=15%of BP
 
 
 
