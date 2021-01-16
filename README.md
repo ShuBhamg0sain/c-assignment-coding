@@ -83,8 +83,6 @@
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_212434.jpg) ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_212506.jpg)
 
 
-
-
 # Question 2
 
 * WAP to find minimum of three numbers:
@@ -115,5 +113,15 @@
 
 * WAP to determine leap year or not using Logical AND, OR operators and conditional statements.
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/Screenshot_20201221_001310.jpg)
+
+
+
+
+# Assignment 4
+
+# Question 1
+
+# WAP to compute net salary? (NS=BP+HRA+TA +DA), Where BP (Basic pay would be enter by user) HRA=10% of BP, TA=5%of BP DA=15%of BP
+
 
 
