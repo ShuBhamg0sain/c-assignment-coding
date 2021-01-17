@@ -132,6 +132,49 @@
 
 
 
+# Question 3
+
+* WAP to find the factorial of a number?
+
+
+
+## Question 4
+
+* WAP to generate fibonacci series? (0,1,1,2,3,5,8,13,21����N.). Ask user to enter the value of N.
+
+
+## Question 5
+
+* Write a menu driven program to find area of - 
+	A. Circle
+	B. Rectangle
+	C. Triangle
+
+# Assignment 5
+
+# Question 1
+
+* WAP to generate following pattern
+			ABCDEFGFEDCBA
+			ABCDEF FEDCBA
+			ABCDE   EDCBA
+			ABCD	 DCBA
+			ABC	  CBA
+			AB	   BA
+			A	    A
+
+
+# Question 2
+
+* Write a menu driven program  using functions to find ? A) Factorial of a number B) Reverse of a number, and C) factor of a number.
+
+
+
+# Question 3
+
+* Write a menu driven program to perform the following operation on input strings Using function. a)Find the length of the string b)Reverse the string c)Concatenate two strings, and d)Compare two strings. Do not use library functions for the same.
+
+
 
 
 
