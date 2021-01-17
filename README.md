@@ -135,12 +135,14 @@
 ## Question 3
 
 * WAP to find the factorial of a number?
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%204/IMG_20210117_101928.jpg)
 
 
 
 ## Question 4
 
 * WAP to generate fibonacci series? (0,1,1,2,3,5,8,13,21����N.). Ask user to enter the value of N.
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%204/IMG_20210117_101913.jpg)
 
 
 ## Question 5
