@@ -125,4 +125,20 @@
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%204/IMG_20210116_171011.jpg)
 
 
+# Question 2
+
+* WAP to print the sum of digits of any number?
+! [ ](
+
+
+
+
+
+
+
+
+
+
+
+
 
