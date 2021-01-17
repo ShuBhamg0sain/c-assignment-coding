@@ -1,13 +1,13 @@
 # assignment 1
 
-# Question 1
+## Question 1
 * A farmer wants to fence with three rounds of wire in his rectangular plot of length 20 metres and breadth 15 metres. Calculate the total wire to be purchased. If the cost per metre of wire is 400 rupees, also calculate the total cost of fencing.
 
   ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%201/IMG_20201220_181502.jpg)
 
 
 
-# Question 2
+## Question 2
 * WAP to convert temperature from Fahrenheit to celsius.
 
   ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%201/IMG_20201220_181428.jpg)
@@ -15,7 +15,7 @@
 
 
 
-# Question 3
+## Question 3
 * WAP to exchange two numbers using a temporary variable and without.
 
 # without temporary variable
@@ -31,7 +31,7 @@
 
 # assignment 2
 
-# Question 1
+## Question 1
 
 * WAP to input an decimal number (base 10) and display its hex and octal equivalents.
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-lab-assignment/main/Lab%20assignment%202/IMG_20201228_094236.jpg)
@@ -40,7 +40,7 @@
 
 
 
-# Question 2
+## Question 2
 
 * WAP to check whether a given number is even or odd.
 	a) Using if-else
@@ -58,7 +58,7 @@
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%202/Screenshot_20201228_210745.jpg)
 
 
-# Question 3
+## Question 3
 
 
 * Area of a valid triangle using Heron's Formula. (Sum of any two sides must be greater than the third side).
@@ -69,7 +69,7 @@
 
 # Assignment 3
 
-# Question 1
+## Question 1
 
 
 
@@ -83,7 +83,7 @@
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_212434.jpg) ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/IMG_20201220_212506.jpg)
 
 
-# Question 2
+## Question 2
 
 * WAP to find minimum of three numbers:
 	a) Using if else
@@ -100,7 +100,7 @@
 # c) Using arithmetic operation (subtraction)
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%203/Screenshot_20201229_123947.jpg)
 
-# Question 3
+## Question 3
 
 * WAP to find the average of top three test results out of four conducted. (eliminate the smallest one).
 
@@ -109,7 +109,7 @@
 
 
 
-# Question 4
+## Question 4
 
 * WAP to determine leap year or not using Logical AND, OR operators and conditional statements.
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-assignment-coding/main/Lab%20assignment%203/Screenshot_20201221_001310.jpg)
@@ -119,20 +119,20 @@
 
 # Assignment 4
 
-# Question 1
+## Question 1
 
 * WAP to compute net salary? (NS=BP+HRA+TA +DA), Where BP (Basic pay would be enter by user) HRA=10% of BP, TA=5%of BP DA=15%of BP
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%204/IMG_20210116_171011.jpg)
 
 
-# Question 2
+## Question 2
 
 * WAP to print the sum of digits of any number?
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%204/Screenshot_20210116_173602.jpg)
 
 
 
-# Question 3
+## Question 3
 
 * WAP to find the factorial of a number?
 
@@ -152,7 +152,7 @@
 
 # Assignment 5
 
-# Question 1
+## Question 1
 
 * WAP to generate following pattern
 			ABCDEFGFEDCBA
@@ -164,13 +164,13 @@
 			A	    A
 
 
-# Question 2
+## Question 2
 
 * Write a menu driven program  using functions to find ? A) Factorial of a number B) Reverse of a number, and C) factor of a number.
 
 
 
-# Question 3
+## Question 3
 
 * Write a menu driven program to perform the following operation on input strings Using function. a)Find the length of the string b)Reverse the string c)Concatenate two strings, and d)Compare two strings. Do not use library functions for the same.
 
