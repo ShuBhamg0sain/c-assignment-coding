@@ -128,7 +128,7 @@
 # Question 2
 
 * WAP to print the sum of digits of any number?
-! [ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%204/Screenshot_20210116_173602.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%204/Screenshot_20210116_173602.jpg)
 
 
 
