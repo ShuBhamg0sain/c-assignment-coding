@@ -152,6 +152,8 @@
 	B. Rectangle
 	C. Triangle
 
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%204/IMG_20210117_105140.jpg)
+
 # Assignment 5
 
 ## Question 1
