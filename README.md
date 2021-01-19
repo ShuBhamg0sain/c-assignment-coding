@@ -167,6 +167,9 @@
 			AB	   BA
 			A	    A
 
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%205/IMG_20210119_231105.jpg)
+
+
 
 ## Question 2
 
