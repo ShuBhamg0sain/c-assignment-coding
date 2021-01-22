@@ -1,3 +1,64 @@
+#include <stdio.h> 
+#include <string.h>
+int main() 
+{ 
+	  char Str[100];  
+	  char Str1[100];
+	  char Str2[100];
+    int r = 0, num, n, i;
+    unsigned long long fact = 1;
+    int shubhamgosai;
+    printf("enter1 for find the length of  string\n");
+    printf("enter2 for area of Reverse of a number\n");
+    printf("enter3 for Concatenate two strings\n"); 
+    scanf("%d",&shubhamgosai);   
+    switch(shubhamgosai)
+        {
+    case 1:
+    printf("Enter the String\n "); 
+    scanf("%s", Str); 
+    printf("Length of Str is %ld", strlen(Str)); 
+    break;
+    
+   
+    case 2:
+    printf("Enter the string\n");
+    scanf("%s",Str);
+    for(i=0; Str[i]!='\0'; i++);
+    printf("Reverse is = ");
+    for(i--; i>=0; i--)
+    {
+    printf("%c",Str[i]);
+    }
+    break;
+    case 3:
+    printf("Enter first string\n");
+    scanf("%s",&Str1);
+    printf("Enter second string\n");
+    scanf("%s",Str2);
+    strcat(Str1,Str2);
+    printf(" concatenate two strings is %s", Str1);
+    break;  
+    default:
+    printf("error choose correct option");
+        }
+    return 0; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # assignment 1
 
 ## Question 1
