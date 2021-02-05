@@ -1,4 +1,4 @@
-
+Draw a flow chart and write a c program to find the sum of odd and sum of even numbers between range 1 to N.
 #include <stdio.h>
  
 void main()
