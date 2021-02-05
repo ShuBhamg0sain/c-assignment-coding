@@ -1,3 +1,45 @@
+
+
+Write a C program to print the following pattern of half pyramids of alphabets of N rows.
+
+Sample Input:     N=5
+
+Sample Output:  
+
+ A
+
+B   B
+
+C   C    C
+
+D   D    D   D
+
+E   E    E    E   E
+#include <stdio.h>
+int main()
+{
+    int index1, index2,input;
+    char alphabet = 'A';
+    printf("Abundance\n");
+    printf("Enter the limit : ");
+    scanf("%d",&input);
+
+    for(index1=1; index1 <= input; ++index1)
+    {
+        for(index2=1;index2<=index1;++index2)
+        {
+            printf("%c", alphabet);
+        }
+        ++alphabet;
+
+        printf("\n");
+    }
+    return 0;
+}
+
+
+
+
 Draw a flow chart and write a c program to find the sum of odd and sum of even numbers between range 1 to N.
 #include <stdio.h>
  
