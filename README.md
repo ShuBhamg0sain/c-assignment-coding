@@ -185,6 +185,12 @@
 * Write a menu driven program to perform the following operation on input strings Using function. a)Find the length of the string b)Reverse the string c)Concatenate two strings, and d)Compare two strings. Do not use library functions for the same.
 
 
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%205/IMG_20210301_123245.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%205/IMG_20210301_123216.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%205/IMG_20210301_123345.jpg)
+
+
+
 
 
 
