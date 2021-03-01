@@ -214,3 +214,39 @@
 * WAP to sort (in ascending order ) a matrix of size r X c row wise and column wise and display all three matrics.
 
 
+
+
+# Assignment 7
+
+## Question 1
+* WAP to create a two dimensional array of size r X c dynamically, store elements in it and find the sum of all the elements?
+
+
+
+## Question 2
+* WAP to sort N names in alphabetical order. Your program must use array of pointers to store the names?
+
+
+
+## Question 3
+* WAP using structures to store the records of N student of a class. The record contain: their names, roll nos, addresses and marks in five subjects. Find the highest marks obtained in each subject. Also find the name and roll no of the class topper?
+
+
+
+# Assignment 8
+## Question 1
+* Read a text file abc.txt and count the number of sentences, number of words and number of characters in it. A sentence can be terminated by (.), (!), or (?)
+
+
+
+
+## Question 2
+* WAP to read a text file info.txt and encode it using the following rules into a new file secret.txt,
+    a)Each alphabet is replaced by its next alphabet in sequence,
+    b)Each space to be replaced by $ sign, 
+    c)All numeric digits and special chars must remain unchanged
+
+
+
+## Question 3
+* WAP to create a data file stud.txt that stores the marks obtained in four different subjects by each student in a batch of 30 students . Then read this file, calculate the percentage of marks and store it in a new file results.dat along with the student�s name
