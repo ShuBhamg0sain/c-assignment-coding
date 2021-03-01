@@ -190,7 +190,27 @@
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%205/IMG_20210301_123345.jpg)
 
 
+# Assignment 6
+
+## Question 1
+* WAP to form a function for reverse the words of a sentence. Eg If the sentence is : TODAY IS THURSDAY   then it must be converted to THURSDAY IS TODAY?
 
 
+
+
+## Question 2
+* WAP to convert a name to a given format as if GRPHIC ERA HILL UNIVERSITY to G.E.H.University.
+
+
+
+
+## Question 3
+* WAP using function to perform matrix multiplication?
+
+
+
+
+## Question 4
+* WAP to sort (in ascending order ) a matrix of size r X c row wise and column wise and display all three matrics.
 
 
