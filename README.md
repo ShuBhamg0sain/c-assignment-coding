@@ -195,6 +195,7 @@
 ## Question 1
 * WAP to form a function for reverse the words of a sentence. Eg If the sentence is : TODAY IS THURSDAY   then it must be converted to THURSDAY IS TODAY?
 
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%206/IMG_20210302_132227.jpg)
 
 
 
