@@ -175,7 +175,7 @@
 ## Question 2
 
 * Write a menu driven program  using functions to find ? A) Factorial of a number B) Reverse of a number, and C) factor of a number.
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%205/IMG_20210120_153205.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%205/IMG_20210303_175114.jpg)
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%205/IMG_20210120_153133.jpg)
 
 
