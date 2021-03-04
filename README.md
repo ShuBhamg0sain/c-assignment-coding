@@ -209,6 +209,7 @@
 ## Question 3
 * WAP using function to perform matrix multiplication?
 
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%206/Screenshot_20210304_153805.jpg)
 
 
 
