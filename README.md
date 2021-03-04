@@ -201,7 +201,7 @@
 
 ## Question 2
 * WAP to convert a name to a given format as if GRPHIC ERA HILL UNIVERSITY to G.E.H.University.
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%206/Screenshot_20210304_144518.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%206/IMG_20210304_150241.jpg)
 
 
 
