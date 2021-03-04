@@ -224,6 +224,7 @@
 ## Question 1
 * WAP to create a two dimensional array of size r X c dynamically, store elements in it and find the sum of all the elements?
 
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%207/Screenshot_20210304_163000.jpg)
 
 
 ## Question 2
