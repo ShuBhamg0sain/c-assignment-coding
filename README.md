@@ -216,6 +216,7 @@
 ## Question 4
 * WAP to sort (in ascending order ) a matrix of size r X c row wise and column wise and display all three matrics.
 
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%206/Screenshot_20210309_172802.jpg)
 
 
 
