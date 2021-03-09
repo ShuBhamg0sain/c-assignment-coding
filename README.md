@@ -241,6 +241,7 @@
 # Assignment 8
 ## Question 1
 * Read a text file abc.txt and count the number of sentences, number of words and number of characters in it. A sentence can be terminated by (.), (!), or (?)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/c-------------------lab------------------assignment/main/Lab%20assignment%208/Screenshot_20210309_173200.jpg)
 
 
 
