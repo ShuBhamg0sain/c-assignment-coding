@@ -1,4 +1,6 @@
 
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
+
 # assignment 1
 
 ## Question 1
