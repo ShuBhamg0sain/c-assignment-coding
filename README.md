@@ -1,5 +1,6 @@
   
-👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
+Instagram account
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
 
 # Problem 1
 * A farmer wants to fence with three rounds of wire in his rectangular plot of length 20 metres and breadth 15 metres. Calculate the total wire to be purchased. If the cost per metre of wire is 400 rupees, also calculate the total cost of fencing.
